@@ -1,0 +1,148 @@
+﻿<dotnetnuke type="ResourceFile" version="5.0">
+  <files>
+    <file>
+      <path>packages/MSBuildTasks.1.5.0.235/tools/</path>
+      <name>MSBuild.Community.Tasks.dll</name>
+    </file>
+    <file>
+      <path>packages/MSBuildTasks.1.5.0.235/tools/</path>
+      <name>MSBuild.Community.Tasks.Targets</name>
+    </file>
+    <file>
+      <path>packages/MSBuildTasks.1.5.0.235/tools/</path>
+      <name>MSBuild.Community.Tasks.xml</name>
+    </file>
+    <file>
+      <path>packages/MSBuildTasks.1.5.0.235/tools/</path>
+      <name>MSBuild.Community.Tasks.xsd</name>
+    </file>
+    <file>
+      <path>Providers/DataProviders/SqlDataProvider/</path>
+      <name>SqlDataProvider.cs</name>
+    </file>
+    <file>
+      <path>packages/MSBuildTasks.1.5.0.235/build/</path>
+      <name>MSBuildTasks.targets</name>
+    </file>
+    <file>
+      <path>obj/Release/</path>
+      <name>.NETFramework,Version=v4.7.2.AssemblyAttributes.cs</name>
+    </file>
+    <file>
+      <path>packages/MSBuildTasks.1.5.0.235/</path>
+      <name>.signature.p7s</name>
+    </file>
+    <file>
+      <path>packages/MSBuildTasks.1.5.0.235/</path>
+      <name>MSBuildTasks.1.5.0.235.nupkg</name>
+    </file>
+    <file>
+      <path>obj/Debug/</path>
+      <name>.NETFramework,Version=v4.7.2.AssemblyAttributes.cs</name>
+    </file>
+    <file>
+      <path>Properties/</path>
+      <name>AssemblyInfo.cs</name>
+    </file>
+    <file>
+      <path>Documentation/</path>
+      <name>Documentation.css</name>
+    </file>
+    <file>
+      <path>Documentation/</path>
+      <name>Documentation.html</name>
+    </file>
+    <file>
+      <path>Components/</path>
+      <name>FeatureController.cs</name>
+    </file>
+    <file>
+      <path>Data/</path>
+      <name>DataProvider.cs</name>
+    </file>
+    <file>
+      <path>BuildScripts/</path>
+      <name>ModulePackage.targets</name>
+    </file>
+    <file>
+      <path>BuildScripts/</path>
+      <name>MSBuild.Community.Tasks.Targets</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>Edit.ascx.resx</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>Settings.ascx.resx</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>View.ascx.resx</name>
+    </file>
+    <file>
+      <path />
+      <name>Edit.ascx</name>
+    </file>
+    <file>
+      <path />
+      <name>Edit.ascx.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>Edit.ascx.designer.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>License.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>LoginWithEmail.csproj</name>
+    </file>
+    <file>
+      <path />
+      <name>LoginWithEmail.sln</name>
+    </file>
+    <file>
+      <path />
+      <name>LoginWithEmailModuleBase.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>LoginWithEmailModuleSettingsBase.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>module.css</name>
+    </file>
+    <file>
+      <path />
+      <name>ReleaseNotes.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>Settings.ascx</name>
+    </file>
+    <file>
+      <path />
+      <name>Settings.ascx.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>Settings.ascx.designer.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>View.ascx</name>
+    </file>
+    <file>
+      <path />
+      <name>View.ascx.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>View.ascx.designer.cs</name>
+    </file>
+  </files>
+</dotnetnuke>

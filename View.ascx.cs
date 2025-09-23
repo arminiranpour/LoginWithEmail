@@ -11,7 +11,6 @@
 */
 
 using System;
-
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Web;
@@ -23,6 +22,8 @@ using DotNetNuke.Security;
 using DotNetNuke.Security.Membership;
 using DotNetNuke.Services.Exceptions;
 using DotNetNuke.Services.Localization;
+using DotNetNuke.Entities.Modules;
+
 
 namespace LoginWithEmail.Modules.LoginWithEmail
 {
@@ -340,7 +341,7 @@ namespace LoginWithEmail.Modules.LoginWithEmail
             if (!string.IsNullOrEmpty(returnUrl))
             {
                 returnUrl = HttpUtility.UrlDecode(returnUrl);
-                if (!string.IsNullOrEmpty(returnUrl) && UrlUtils.IsLocalUrl(returnUrl))
+                if (IsSafeLocalUrl(returnUrl))
                 {
                     return returnUrl;
                 }
@@ -395,6 +396,25 @@ namespace LoginWithEmail.Modules.LoginWithEmail
                 lblSignUpError.Text = message;
                 lblSignUpError.Visible = true;
             }
+        }
+        private static bool IsSafeLocalUrl(string url)
+        {
+            if (string.IsNullOrEmpty(url))
+            {
+                return false;
+            }
+
+            if (url[0] == '~')
+            {
+                return url.Length == 1 || url[1] == '/' || url[1] == '\\';
+            }
+
+            if (url[0] == '/')
+            {
+                return url.Length == 1 || (url[1] != '/' && url[1] != '\\');
+            }
+
+            return false;
         }
 
         private string GetCreateStatusMessage(UserCreateStatus status)

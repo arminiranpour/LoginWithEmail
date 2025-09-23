@@ -1,0 +1,7 @@
+E:\website\CNaghsh\bin\LoginWithEmail.dll
+E:\website\CNaghsh\bin\LoginWithEmail.pdb
+E:\website\CNaghsh\DesktopModules\LoginWithEmail\obj\Release\LoginWithEmail.csproj.AssemblyReference.cache
+E:\website\CNaghsh\DesktopModules\LoginWithEmail\obj\Release\LoginWithEmail.csproj.CoreCompileInputs.cache
+E:\website\CNaghsh\DesktopModules\LoginWithEmail\obj\Release\LoginWit.B0CEB618.Up2Date
+E:\website\CNaghsh\DesktopModules\LoginWithEmail\obj\Release\LoginWithEmail.dll
+E:\website\CNaghsh\DesktopModules\LoginWithEmail\obj\Release\LoginWithEmail.pdb
