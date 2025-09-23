@@ -1,0 +1,21 @@
+.lwa-container {
+    max-width: 420px;
+}
+
+    .lwa-container .lwa-heading {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 0.75rem;
+    }
+
+    .lwa-container .lwa-panel {
+        margin-bottom: 1.5rem;
+    }
+
+    .lwa-container .dnnFormMessage {
+        margin-top: 0.5rem;
+    }
+
+    .lwa-container .dnnActions .dnnSecondaryAction {
+        margin-left: 0.5rem;
+    }

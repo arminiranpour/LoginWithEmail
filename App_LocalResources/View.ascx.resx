@@ -120,4 +120,94 @@
   <data name="EditModule.Text" xml:space="preserve">
     <value>Edit Module</value>
   </data>
+	<data name="SuccessHeading.Text" xml:space="preserve">
+    <value>Almost done!</value>
+  </data>
+	<data name="EmailLabel.Text" xml:space="preserve">
+    <value>Email address</value>
+  </data>
+	<data name="ContinueButton.Text" xml:space="preserve">
+    <value>Continue</value>
+  </data>
+	<data name="EmailInvalid.Error" xml:space="preserve">
+    <value>Please enter a valid email address.</value>
+  </data>
+	<data name="SignInPrompt.Text" xml:space="preserve">
+    <value>Enter your password to continue with {0}.</value>
+  </data>
+	<data name="PasswordLabel.Text" xml:space="preserve">
+    <value>Password</value>
+  </data>
+	<data name="SignInButton.Text" xml:space="preserve">
+    <value>Sign in</value>
+  </data>
+	<data name="ChangeEmailButton.Text" xml:space="preserve">
+    <value>Use a different email</value>
+  </data>
+	<data name="SignInError.Text" xml:space="preserve">
+    <value>The email or password you entered is incorrect.</value>
+  </data>
+	<data name="SignUpPrompt.Text" xml:space="preserve">
+    <value>Create your account with {0}.</value>
+  </data>
+	<data name="FirstNameLabel.Text" xml:space="preserve">
+    <value>First name</value>
+  </data>
+	<data name="LastNameLabel.Text" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+	<data name="SignUpButton.Text" xml:space="preserve">
+    <value>Sign up</value>
+  </data>
+	<data name="SignUpMissingFirstName.Error" xml:space="preserve">
+    <value>Please enter your first name.</value>
+  </data>
+	<data name="SignUpMissingLastName.Error" xml:space="preserve">
+    <value>Please enter your last name.</value>
+  </data>
+	<data name="SignUpMissingPassword.Error" xml:space="preserve">
+    <value>Please enter a password.</value>
+  </data>
+	<data name="PasswordPolicy.Error" xml:space="preserve">
+    <value>Your password does not meet the site's password requirements.</value>
+  </data>
+	<data name="SignUpSuccessPending.Text" xml:space="preserve">
+    <value>Thanks! Please check {0} to finish setting up your account.</value>
+  </data>
+	<data name="CreateStatus_DuplicateEmail.Error" xml:space="preserve">
+    <value>We couldn't create your account right now. Please try again later.</value>
+  </data>
+	<data name="CreateStatus_DuplicateUserName.Error" xml:space="preserve">
+    <value>We couldn't create your account right now. Please try again later.</value>
+  </data>
+	<data name="CreateStatus_InvalidPassword.Error" xml:space="preserve">
+    <value>Your password does not meet the site's password requirements.</value>
+  </data>
+	<data name="CreateStatus_InvalidEmail.Error" xml:space="preserve">
+    <value>Please enter a valid email address.</value>
+  </data>
+	<data name="CreateStatus_InvalidUserName.Error" xml:space="preserve">
+    <value>Please enter a valid email address.</value>
+  </data>
+	<data name="CreateStatus_InvalidQuestion.Error" xml:space="preserve">
+    <value>Please provide a valid security question.</value>
+  </data>
+	<data name="CreateStatus_InvalidAnswer.Error" xml:space="preserve">
+    <value>Please provide a valid security answer.</value>
+  </data>
+	<data name="CreateStatus_ProviderError.Error" xml:space="preserve">
+    <value>We were unable to create your account. Please try again later.</value>
+  </data>
+	<data name="CreateStatus_UserAlreadyExists.Error" xml:space="preserve">
+    <value>We couldn't create your account right now. Please try again later.</value>
+  </data>
+	<data name="CreateStatus_UserAlreadyRegistered.Error" xml:space="preserve">
+    <value>We couldn't create your account right now. Please try again later.</value>
+  </data>
+	<data name="CreateStatus_UserRejected.Error" xml:space="preserve">
+    <value>Your registration cannot be completed at this time.</value>
+  </data>
+	<data name="CreateStatus_Default.Error" xml:space="preserve">
+    <value>We couldn't create your account. ({0})</value>
+  </data>
 </root>
