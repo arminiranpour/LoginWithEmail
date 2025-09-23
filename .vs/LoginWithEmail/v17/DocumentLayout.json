@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|e:\\website\\cnaghsh\\desktopmodules\\loginwithemail\\view.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|solutionrelative:view.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.ascx",
+              "DocumentMoniker": "E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\View.ascx",
+              "RelativeDocumentMoniker": "View.ascx",
+              "ToolTip": "E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\View.ascx",
+              "RelativeToolTip": "View.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-09-23T20:56:07.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
