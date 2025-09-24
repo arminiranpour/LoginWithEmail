@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\view.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|solutionrelative:view.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|e:\\website\\cnaghsh\\desktopmodules\\loginwithemail\\view.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|solutionrelative:view.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\view.ascx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|solutionrelative:view.ascx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\view.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|solutionrelative:view.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|LoginWithEmail.csproj|E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\app_localresources\\view.ascx.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "module.css",
               "DocumentMoniker": "E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\module.css",
               "RelativeDocumentMoniker": "module.css",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "View.ascx.designer.cs",
               "DocumentMoniker": "E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\View.ascx.designer.cs",
               "RelativeDocumentMoniker": "View.ascx.designer.cs",
@@ -62,11 +62,12 @@
               "RelativeToolTip": "View.ascx.designer.cs",
               "ViewState": "AgIAAO4AAAAAAAAAAADwv/gAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T21:21:46.354Z"
+              "WhenOpened": "2025-09-23T21:21:46.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "View.ascx.cs",
               "DocumentMoniker": "E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\View.ascx.cs",
               "RelativeDocumentMoniker": "View.ascx.cs",
@@ -91,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "View.ascx",
               "DocumentMoniker": "E:\\website\\CNaghsh\\DesktopModules\\LoginWithEmail\\View.ascx",
               "RelativeDocumentMoniker": "View.ascx",
@@ -99,7 +100,8 @@
               "RelativeToolTip": "View.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-09-23T20:56:07.825Z"
+              "WhenOpened": "2025-09-23T20:56:07.825Z",
+              "EditorCaption": ""
             }
           ]
         }
